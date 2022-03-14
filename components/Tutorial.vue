@@ -196,8 +196,9 @@
               <p class="ml-16 text-lg leading-6 font-medium text-gray-900">Mobile notifications</p>
             </dt>
             <dd
-              class="mt-2 ml-16 text-base text-gray-500"
-            >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</dd>
+              class="mt-2 ml-16 text-base text-gray-500">
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+            </dd>
           </div>
         </dl>
       </div>
