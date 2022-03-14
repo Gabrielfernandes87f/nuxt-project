@@ -4,11 +4,11 @@
   <div class="py-12 bg-orange-700">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="lg:text-center text-center sm:text-center">
-        <img
+<!--         <img
           class="inline-block rounded-full object-cover leading-x w-32 h-32 sm:w-48 sm:h-48"
           src="../assents/eu.jpg"
           alt="avatar"
-        />
+        /> -->
         <h2
           class="text-base text-indigo-600 font-semibold tracking-wide md:text-center sm:text-center"
         >Engenheiro de software</h2>
